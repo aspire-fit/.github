@@ -47,8 +47,8 @@ We leverage modern technologies to deliver the best performance and developer ex
 
 ## 📫 Connect With Us
 
-- **Website:** [aspirefit.com](https://aspirefit.com) (Coming Soon)
-- **Support:** support@aspirefit.com
+- **Website:** [aspirefit.com](https://aspirefit.in)
+- **Support:** support@aspirefit.in
 
 ---
 
