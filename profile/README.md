@@ -24,6 +24,8 @@ A scalable microservices architecture handling everything from user authenticati
 
 ## 🚀 Key Repositories
 
+Mobile app built on top of PUBFitness backend and mobile application, and all functionalities remain functional
+
 *Note: In our current setup, these components are managed in a monorepo structure.*
 
 - **`aspire-fit`**: The main repository containing the mobile app, frontend, and backend services.
@@ -47,7 +49,7 @@ We leverage modern technologies to deliver the best performance and developer ex
 
 ## 📫 Connect With Us
 
-- **Website:** [aspirefit.com](https://aspirefit.in)
+- **Website:** [aspirefit.in](https://aspirefit.in)
 - **Support:** support@aspirefit.in
 
 ---
