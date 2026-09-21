@@ -1,62 +1,63 @@
-# 🏢 Welcome to the AspireFit Organization!
+# AspireFit
 
-We are dedicated to building modern, scalable, and high-performance solutions for the fitness industry. Our goal is to empower users and gym owners with state-of-the-art tools to track, manage, and improve fitness journeys.
+### Your Goals. Your Coach. Your Gym. One app.
 
----
+AspireFit is building a connected fitness platform for gyms, fitness studios, trainers, and their members.
 
-## 🌟 Our Ecosystem
+Our goal is simple: make running a fitness business easier while giving members a better way to stay connected, engaged, and consistent with their fitness journey.
 
-Our core platform, **AspireFit**, is a comprehensive ecosystem that includes:
+## What We Do
 
-### 📱 Mobile Application
-A feature-rich mobile app for users to track workouts, chat with trainers, and manage memberships.
-- **Tech Stack:** Expo, React Native, NativeWind
+AspireFit brings the different parts of a fitness business together in one ecosystem.
 
-### 💻 Web Platform
-A powerful web interface for gym owners and administrators to manage members, schedules, and analytics.
-- **Tech Stack:** Next.js, React, Bun, Turborepo
+### For Gyms & Fitness Studios
 
-### ⚙️ Backend Services
-A scalable microservices architecture handling everything from user authentication to workout data processing.
-- **Tech Stack:** Go (Golang), REST APIs, WebSockets
+We help fitness businesses manage their day-to-day operations and build stronger relationships with their members.
 
----
+This includes tools for managing memberships, members, trainers, schedules, attendance, and business operations.
 
-## 🚀 Key Repositories
+### For Trainers
 
-Mobile app built on top of PUBFitness backend and mobile application, and all functionalities remain functional
+AspireFit helps trainers stay connected with their members and provide a more organized coaching experience.
 
-*Note: In our current setup, these components are managed in a monorepo structure.*
+Trainers can manage their interactions with members, track progress, and support their clients throughout their fitness journey.
 
-- **`aspire-fit`**: The main repository containing the mobile app, frontend, and backend services.
-  - [Mobile App](./mobile)
-  - [Frontend](./frontend)
-  - [Backend](./backend)
+### For Members
 
----
+Members get a simple and connected experience for managing their fitness activities, memberships, workouts, and communication with their gym or trainer.
 
-## 🛠️ Technologies We Use
+Our aim is to remove unnecessary friction and make it easier for people to stay consistent.
 
-We leverage modern technologies to deliver the best performance and developer experience:
+## Our Approach
 
-- **Languages:** TypeScript, Go
-- **Frameworks:** React Native (Expo), Next.js
-- **Styling:** Tailwind CSS, NativeWind
-- **Package Managers:** Bun
-- **Infrastructure:** Docker
+We believe fitness software should be powerful without becoming complicated.
 
----
+Instead of building disconnected tools for individual tasks, AspireFit is focused on creating a unified experience where gyms, trainers, and members can work together seamlessly.
 
-## 📫 Connect With Us
+We are continuously improving the platform based on the real needs of the people who use it.
 
-- **Website:** [aspirefit.in](https://aspirefit.in)
-- **Support:** support@aspirefit.in
+## Our Vision
 
----
+We want to help shape a more connected and accessible fitness industry.
 
-## 🤝 Contributing
+By giving fitness businesses better tools and members better experiences, we aim to make technology a natural part of the way people train, manage their fitness, and build healthier habits.
 
-We are open to collaboration! If you are part of the organization or have been invited to contribute, please check the specific project READMEs for setup instructions.
+**Better tools for businesses. Better experiences for members.**
+
+## Get in Touch
+
+Website: [aspirefit.in](https://aspirefit.in)
+
+Support: [support@aspirefit.in](mailto:support@aspirefit.in)
+
+## Working With Us
+
+AspireFit is an evolving platform, and we are always open to people who share our interest in building better products for the fitness industry.
+
+If you are part of the AspireFit organization or have been invited to contribute, please refer to the documentation provided with the relevant project.
 
 ---
-*This profile README is managed in the `.github` folder. To update it, edit the file in `.github/profile/README.md`.*
+
+**AspireFit**
+
+*Your Goals. Your Coach. Your Gym. One app.*
